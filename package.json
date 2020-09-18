@@ -1,6 +1,6 @@
 {
   "name": "rexios",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Normalize url params and data for axios rest api request",
   "license": "MIT",
   "repository": "Scrum/rexios",
