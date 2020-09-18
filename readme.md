@@ -11,7 +11,7 @@ Returns normalized parameters and url according to the rest-api convention and s
 ## Install
 
 ```bash
-$ npm install vue-rexios
+$ npm install rexios
 ```
 
 > **Note:** This project is compatible with node v10+
