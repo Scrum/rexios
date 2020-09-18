@@ -98,7 +98,7 @@ axios[method](...args).then(response => {
 const axios = require('axios');
 const rexios = require('rexios');
 
-const method = 'put';
+const method = 'delete';
 const baseURL = 'v2/api/user/';
 const params = {
   id: 123, 
