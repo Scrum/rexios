@@ -1,7 +1,7 @@
 # rexios 
 > Utils normalize url params and data for [axios](https://github.com/axios/axios) rest api request
 
-[![Actions Status](https://github.com/Scrum/rexios/workflows/Actions%20Status/badge.svg?style=flat-square)](https://github.com/Scrum/rexios/actions?query=workflow%3A%22CI+tests%22)[![node](https://img.shields.io/node/v/rexios.svg?style=flat-square)]()[![npm version](https://img.shields.io/npm/v/rexios.svg?style=flat-square)](https://www.npmjs.com/package/rexios)[![Dependency Status](https://david-dm.org/Scrum/rexios.svg?style=flat-square)](https://david-dm.org/Scrum/rexios)[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square)](https://github.com/xojs/xo)[![Coveralls status](https://img.shields.io/coveralls/Scrum/rexios.svg?style=flat-square)](https://coveralls.io/r/Scrum/rexios)
+[![Actions Status](https://github.com/Scrum/rexios/workflows/Actions%20Status/badge.svg?style=flat-square)](https://github.com/Scrum/rexios/actions?query=workflow%3A%22CI+tests%22)[![node](https://img.shields.io/node/v/rexios.svg?style=flat-square)]()[![npm version](https://img.shields.io/npm/v/rexios.svg?style=flat-square)](https://www.npmjs.com/package/rexios)[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square)](https://github.com/xojs/xo)[![Coveralls status](https://img.shields.io/coveralls/Scrum/rexios.svg?style=flat-square)](https://coveralls.io/r/Scrum/rexios)
 
 [![npm downloads](https://img.shields.io/npm/dm/rexios.svg?style=flat-square)](https://www.npmjs.com/package/rexios)[![npm](https://img.shields.io/npm/dt/rexios.svg?style=flat-square)](https://www.npmjs.com/package/rexios)
 
