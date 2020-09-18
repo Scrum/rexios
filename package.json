@@ -1,0 +1,43 @@
+{
+  "name": "rexios",
+  "version": "0.0.0",
+  "description": "Normalize url params and data for axios rest api request",
+  "license": "MIT",
+  "repository": "Scrum/rexios",
+  "bugs": "Scrum/rexios/issues",
+  "author": {
+    "name": "Ivan Demidov",
+    "email": "Scrum@list.ru",
+    "url": "https://twitter.com/Scrum_"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "version": "conventional-changelog -i changelog.md -s -r 0 && git add changelog.md && git commit -m \"build: update changelog\"",
+    "test": "xo && nyc ava",
+    "pretest": "clinton"
+  },
+  "keywords": [
+    "vue",
+    "axios",
+    "rest",
+    "api"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.1",
+    "@commitlint/config-angular": "^9.1.1",
+    "ava": "^3.11.1",
+    "clinton": "^0.14.0",
+    "conventional-changelog-cli": "^2.0.35",
+    "husky": "^4.2.5",
+    "nyc": "^15.1.0",
+    "xo": "^0.32.0"
+  },
+  "funding": {
+    "type": "patreon",
+    "url": "https://patreon.com/scrums"
+  }
+}
